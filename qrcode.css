@@ -1,5 +1,5 @@
-.impowerBox .qrcode {width: 250px;height: 200px;}
+.impowerBox .qrcode {width: 250px;height: 180px;}
 .impowerBox .title {display: none;}
 .impowerBox .info {width: 200px;}
 .status_icon {display：none}
-.impowerBox .status {text-align: center;} 
+.impowerBox .status {text-align: center;display:none;} 
