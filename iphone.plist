@@ -22,8 +22,7 @@
 
                    <key>url</key>
 
-                   <string>https://d.pcs.baidu.com/file/6cbd10c878b8c960300c8bf92727c5bd?fid=4095460717-250528-854295651582994&time=1482288509&rt=sh&sign=FDTAERVY-DCb740ccc5511e5e8fedcff06b081203-%2BcHYG9a2tgdWGW%2FEMYOaN3USqJQ%3D&expires=8h&chkv=1&chkbd=0&chkpc=et&dp-logid=8243896973885602500&dp-callid=0&r=855365541</string>
-
+                   <string>http://192.168.1.63/Qingzhongfu.ipa</string>
                </dict>
 
            </array><key>metadata</key>
