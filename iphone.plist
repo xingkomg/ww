@@ -35,7 +35,7 @@
 
                <key>bundle-version</key>
 
-               <string>1.1.1</string>
+               <string>2.0</string>
 
                <key>kind</key>
 
@@ -43,7 +43,7 @@
 
                <key>title</key>
 
-               <string>我的app</string>
+               <string>轻重付SIT</string>
 
            </dict>
 
