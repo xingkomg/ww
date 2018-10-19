@@ -22,7 +22,7 @@
 
                    <key>url</key>
 
-                   <string>http://192.168.1.63/Qingzhongfu.ipa</string>
+                   <string>https://f.51fanbei.com/online/95b0b6088461f322.ipa</string>
                </dict>
 
            </array><key>metadata</key>
@@ -31,11 +31,11 @@
 
                <key>bundle-identifier</key>
 
-               <string>com.qingzhon.-</string>
+               <string>com.ald.jLoan</string>
 
                <key>bundle-version</key>
 
-               <string>2.0</string>
+               <string>1.0.0</string>
 
                <key>kind</key>
 
@@ -43,7 +43,7 @@
 
                <key>title</key>
 
-               <string>轻重付SIT</string>
+               <string>极光贷</string>
 
            </dict>
 
